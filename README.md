@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 往期活动记录
 
-You can use the [editor on GitHub](https://github.com/YC-Yuan/FDUDebate_SoloGame/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+|      | 说明       | 地点           | 时间       | 参与院系       |
+| ---- | ---------- | -------------- | ---------- | -------------- |
+| S1E0 | 试运营     | 南区15号楼茶室 | 2021.11.20 | 张江 经院 理联 |
+| S1E1 | 正式第一期 | 亚青           | 2021.12.4  |                |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 赛制
 
-### Markdown
+|          | 先发言              | 后发言              |
+| -------- | ------------------- | ------------------- |
+| 立论     | 正方立论1min        | 反方立论1min        |
+| 质询     | 正方质询,共计时2min | 反方质询,共计时2min |
+| 自由辩论 | 反方1.5min          | 正方1.5min          |
+| 总结陈词 | 反方1min            | 正方1min            |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### S1E0
 
-```markdown
-Syntax highlighted code block
+#### 辩题库
 
-# Header 1
-## Header 2
-### Header 3
+1. 超级英雄的出现对世界而言更是灾难或更是幸福
+2. 门当户对是/不是过时的婚姻价值观
+3. 爱情之美在于瞬间/永恒
+4. 人类随着科技发展越来越渺小/强大
+5. 为人处事，无愧于心/尽如人意更重要
+6. 死亡是生命的完整/遗憾
+7. 灾难中的自私应该/不应该受到谴责
+8. 手机拉近/疏远了人与人之间的距离
+9. 杀一救百是/不是正义的行为
+10. 虐待虚拟游戏NPC存在/不存在道德问题
+11. 人有/没有表达偏见的自由
+12. 宿命论可悲/不可悲
+13. 欢愉/创造是活着的最大意义
+14. 彻底失去记记忆的全新人生该不该对之前犯下的罪行负责？
+15. 自由处置自己的身体是/不是一项个人权利
+16. 人有/没有自甘堕落的自由
+17. 知道的越多越像是世界的孤儿/宠儿
+18. 神奇宝贝的世界应不应该禁止捕食神奇宝贝
+19. 大学生短期支教利大于弊/弊大于利
+20. 当今高校招生规模，对教育发展利大于弊/弊大于利
+21. 义务教育阶段，应该/不应该增加艺术课比重
+22. 应该/不应该允许未成年人进入直播行业
+23. 国产电影保护月是国产电影之福/祸
 
-- Bulleted
-- List
+### S1E1
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YC-Yuan/FDUDebate_SoloGame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+待定
